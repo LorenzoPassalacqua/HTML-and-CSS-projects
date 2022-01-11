@@ -7,12 +7,15 @@
 
 <body>
 
-nav>
+<nav>
 	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\assignment.html"> >Home</a>/
 	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\dog quotes.html"> >Quotes</a>/
 	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\dog video.html"> >Video</a>/
 </nav>
 
-	<a href="https://www.youtube.com/watch?v=fcyshDExRuQ&ab_channel=Kiddopedia"> </a>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=fcyshDExRuQ&ab_channel=Kiddopedia autoplay=1 muted=1 controls=1">
+	
+</iframe>
+
 </body>
 </html>
