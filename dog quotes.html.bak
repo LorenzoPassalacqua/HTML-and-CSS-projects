@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html lang="eng">
+	<head>
+	<title> Dog quotes </title>
+	<meta charset="utf-8">
+	</head>
+
+<body>
+
+nav>
+	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\assignment.html"> >Home</a>/
+	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\dog quotes.html"> >Quotes</a>/
+	<a href="C:\Users\loren\Desktop\html prove\HTML-and-CSS-projects\dog video.html"> >Video</a>/
+</nav>
+
+	<h1> Famous dog quotes </h1>
+	<blockquote cite="https://www.akc.org/expert-advice/lifestyle/dog-quotes/">
+	<p>“Dogs’ lives are too short. Their only fault, really.”</p>
+	</blockquote>
+</body>
+</html>
