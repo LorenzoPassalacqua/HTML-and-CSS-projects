@@ -1,3 +1,15 @@
 h1 {
     text-shadow: 4px 4px rgb(105, 250, 105);
 }
+
+ol {
+    list-style-type: lower-greek;
+    background-color: lightskyblue;
+    color: rgb(42, 9, 187);
+}
+
+ul {
+    list-style-type: square;
+    background-color: lightgreen;
+    color: red;
+}
